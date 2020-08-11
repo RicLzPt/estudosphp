@@ -1,0 +1,19 @@
+{
+  "name": "RicLzPt/estudosphp",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "MIT",
+
+  "authors": [
+    {
+      "name": "riclzpt",
+      "email": "ricardolpinto@gmail.com"
+      "role": "Developer"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+
+  }
+}
